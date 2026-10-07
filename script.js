@@ -102,7 +102,7 @@
 
 
 // 1. Production URL (Ensure your workflow is activated in n8n)
-const N8N_URL = "https://dexterity.app.n8n.cloud/webhook-test/oralcare-chat";
+const N8N_URL = "https://dexterity.app.n8n.cloud/webhook/oralcare-chat";
 
 const input = document.getElementById("messageInput");
 const sendButton = document.getElementById("sendButton");
